@@ -4,7 +4,7 @@ cols = 3;
 A = zeros(rows, cols);
 disp("Enter the 3x3 A matrix");
 for i = 1:rows
-    for j = 1
+    for j = 1:cols
         A(i,j) = input("value for A:");
     end
 end
