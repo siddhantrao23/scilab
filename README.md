@@ -1,4 +1,4 @@
 # scilab
   
-Scilab Assignment - 1  
+Scilab Assignment  
 PES1201800313 4I  
